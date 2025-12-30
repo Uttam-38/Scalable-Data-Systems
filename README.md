@@ -13,10 +13,17 @@ processing frameworks, spatial analytics, and NoSQL storage engines.
 - RocksDB
 - C++
 
-## Projects
-- Relational Database Design & Query Optimization
-- Distributed Spatial Queries using Apache Spark
-- Spatio-Temporal Hotspot Analysis
-- NoSQL Key-Value Store using RocksDB
+## Projects Included
+1. Relational Database Design & Query Optimization
+2. Distributed Spatial Queries using SparkSQL
+3. Spatio-Temporal Hotspot Analysis using Apache Spark
+4. NoSQL Key-Value Store Implementation using RocksDB
 
-> Datasets are not included due to size and licensing constraints.
+## Key Concepts
+- Large-scale data ingestion
+- Distributed query processing
+- Spatial and spatio-temporal analytics
+- Storage engine internals (LSM trees)
+- Performance-aware system design
+
+> Note: Datasets are not included due to size and licensing constraints.
