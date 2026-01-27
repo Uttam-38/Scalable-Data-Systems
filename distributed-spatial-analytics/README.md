@@ -1,4 +1,4 @@
-# Distributed Spatial Analytics with Apache Spark
+# Distributed Spatial Queries using SparkSQL 
 
 ## Overview
 This project implements scalable spatial query processing using Apache Spark
